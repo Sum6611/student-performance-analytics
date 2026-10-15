@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Performance Analytics System
 
 **Student Name:** Sumit Jadhav  
@@ -90,3 +91,7 @@ Student_Performance_Analytics_Sumit_Jadhav/
 
 ## GitHub submission
 Create a repository named "student-performance-analytics", add the project files, commit and push them, then submit the repository URL in the Google Form provided by your course. You must create the repository and submit the form yourself; this project does not create external accounts or submit anything automatically.
+=======
+# student-performance-analytics
+Student Performance Analytics System using Python, NumPy and Pandas
+>>>>>>> e9140cfffee7f05d835c023ec5dbb3d998e01fca
